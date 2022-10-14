@@ -1,6 +1,6 @@
 <h1 align="left"> Hi there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> I'm Felipe</h1>
 
-<img align='right' src='https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif' width='200"'>
+<img align='right' src='https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif' width='100"'>
 
 ## 💬 About Me 
 
@@ -18,7 +18,6 @@
 </div>
 
 </br>
-<hr/>
 
 ## ⚡ Skills 
 </br>
@@ -30,8 +29,6 @@
     <img width="60" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>  
 </div>
 </br>
-
-<hr/>
 
 ## 📊 Github Stats
 </br>
