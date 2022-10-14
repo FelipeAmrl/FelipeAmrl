@@ -1,6 +1,6 @@
 <h1 align="left"> Hi there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> I'm Felipe</h1>
 
-<img align='right' src='https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif' width="300">
+<img align='right' src='https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif' width="250">
 
 ## 💬 About Me 
 
